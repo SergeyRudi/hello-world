@@ -1,2 +1,7 @@
 # hello-world
-My first repository!
+
+Hi everyone!
+
+It's Sergey. I like js (that's what I'm made of).
+
+
